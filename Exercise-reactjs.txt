@@ -1,2 +1,3 @@
 React.js
 functoin myFunction()
+console.log(myFunction)
